@@ -26,6 +26,7 @@ UI.body.rendered = function() {
     size: [200, 200],
     content: 'Hello.',
     properties: {
+      backgroundColor: 'rgba(200, 200, 200, 0.5)',
       lineHeight: '200px',
       textAlign: 'center'
     }
